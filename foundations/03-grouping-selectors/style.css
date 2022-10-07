@@ -1,0 +1,13 @@
+.click-one, .click-two{
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.click-one{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.click-two{
+    background-color: #ffff00;
+}
